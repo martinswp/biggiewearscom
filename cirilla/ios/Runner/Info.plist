@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Cirilla Store</string>
+	<string>Biggie Wears Store</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Cirilla Store</string>
+	<string>Biggie Wears</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,8 +27,8 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb866704613752405</string>
-				<string>com.googleusercontent.apps.295269595518-4mq9tp8tgbgod6j299ef38q7difnqonu</string>
+				<string>fb1346710456850007</string>
+				<string>com.googleusercontent.apps.1028260236016-e2fa4v6jald307pu4cnk7hitqvcsokvv</string>
 			</array>
 		</dict>
 		<dict>
@@ -38,18 +38,18 @@
 			<string>Bundle ID</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>io.rnlab.cirilla</string>
+				<string>com.biggiewears.mobile</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>FacebookAppID</key>
-	<string>866704613752405</string>
+	<string>1346710456850007</string>
 	<key>FacebookClientToken</key>
-	<string>3eeeb5fb4d0dffdfc1a5c8fb8eadb140</string>
+	<string>9cc03757ec39eddd4016fe733ac57148</string>
 	<key>FacebookDisplayName</key>
-	<string>Cirilla</string>
+	<string>Biggie Wears</string>
 	<key>FirebaseAppDelegateProxyEnabled</key>
 	<false/>
 	<key>FlutterDeepLinkingEnabled</key>
