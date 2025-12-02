@@ -1,8 +1,8 @@
-const String baseUrl = 'https://yourdomain.com/';
+const String baseUrl = 'https://biggiewears.com/';
 
-const String consumerKey = 'ck_xxxxxxxxxxxxxxxxxx';
+const String consumerKey = 'ck_7d79d1e17083e6eb29ec2535c4f9326bdd1c08e0';
 
-const String consumerSecret = 'cs_xxxxxxxxxxxxxxx';
+const String consumerSecret = 'cs_5c37ffa8e3527c004676d10ef0e8c1763da6f07e';
 
 const String restPrefix = 'wp-json';
 
