@@ -1,1 +1,5 @@
+{
+  "name": "Flutter Dev Container",
+  "image": "cirrusci/flutter"
+}
 
