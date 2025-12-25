@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1028260236016",
+    "project_id": "biggiewears-c082f",
+    "storage_bucket": "biggiewears-c082f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028260236016:android:068db8b64c2bdf46591035",
+        "android_client_info": {
+          "package_name": "com.biggiewears.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028260236016-c5dv2krv0hmenfli7efe2klr779i7917.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biggiewears.mobile",
+            "certificate_hash": "8c5cd4fb64ffe960f6294197f87d3d6d5b8698c7"
+          }
+        },
+        {
+          "client_id": "1028260236016-mk2cc2p3cja9bhglc3p4chfaeeh1bgd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB13Yz_iOY-it7WxG-MHl_tfRujozs7Gh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028260236016-mk2cc2p3cja9bhglc3p4chfaeeh1bgd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028260236016-7t6icret8abbv0bma0urg909lda79eg9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.biggiewears.mobile",
+                "app_store_id": "6755623376"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
