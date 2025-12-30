@@ -3,7 +3,7 @@ class Strings {
 
   // General
   static const String appName = 'Biggie Wears';
-  static const String fontFamily = 'Poppins';
+  static const String fontFamily = 'Montserrat';
   static const String tabActive = 'screens_home';
 
   // Layout category screen
