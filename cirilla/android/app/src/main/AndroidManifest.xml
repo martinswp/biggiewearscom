@@ -89,7 +89,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="appcheap.onelink.me"
+                    android:host="biggiewears.com"
                     android:scheme="http" />
                 <data android:scheme="https" />
             </intent-filter>
