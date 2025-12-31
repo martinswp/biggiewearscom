@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.biggiewears.mobile">
+    package="io.rnlab.cirilla">
 
     <queries>
         <provider android:authorities="com.facebook.katana.provider.PlatformProvider" />
@@ -78,7 +78,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="biggiewears.com"
+                    android:host="wc.appcheap.io"
                     android:scheme="http" />
                 <data android:scheme="https" />
             </intent-filter>
@@ -89,7 +89,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="biggiewears.com"
+                    android:host="appcheap.onelink.me"
                     android:scheme="http" />
                 <data android:scheme="https" />
             </intent-filter>
