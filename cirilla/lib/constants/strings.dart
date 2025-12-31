@@ -2,7 +2,7 @@ class Strings {
   Strings._();
 
   // General
-  static const String appName = 'BiggieWears';
+  static const String appName = 'Biggie Wears';
   static const String fontFamily = 'Montserrat';
   static const String tabActive = 'screens_home';
 
